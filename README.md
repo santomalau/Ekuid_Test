@@ -30,4 +30,4 @@ Grading Criteria:
 
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
+- [@katherinepeterson](https://www.github.com/santomalau)
