@@ -1,16 +1,33 @@
 # ekuidtest
 
-A new Flutter project.
+Programming Test in Ekuid with task:
+Create a simple Flutter Graphql App for Student list that consumes data from https://examplegraphql.herokuapp.com/graphql
 
-## Getting Started
+Mandatory component:
+- Display list of student screen
+- Student form screen with validation for add and edit student (mutation)
+- There is no standard for the UI, you can design your app creatively as you can
+- Consume on background and refresh on main thread handler
+- Unit test is a plus
 
-This project is a starting point for a Flutter application.
+Must use/have :
+- Flutter
+- Bloc pattern 
+- Good and easy to understand the folder structure and MVVM, which shows the separation of the view logic and model.
+- Readme and upload your final code to GitHub
 
-A few resources to get you started if this is your first Flutter project:
+Grading Criteria:
+- Code Neatness
+- Code Work
+- UI
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Folder Structure
+**api:** Contains the code to access the data
+**bloc:** Contains the code to manage how the application work
+**screen:** Contains the code to visualize the app
+**util:** Contains the code to support the app
+**widgets:** Contains the code of widget that frequently used
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Authors
+
+- [@katherinepeterson](https://www.github.com/octokatherine)
